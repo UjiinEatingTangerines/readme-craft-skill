@@ -1,0 +1,4 @@
+interface:
+  display_name: "README Craft"
+  short_description: "배지와 구획으로 README 가독성을 높이고 한국어 문장을 다듬는 스킬"
+  default_prompt: "$readme-craft로 이 저장소 README의 배지와 구획을 정리하고 한국어 문장을 다듬어주세요."
